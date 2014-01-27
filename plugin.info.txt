@@ -1,0 +1,7 @@
+base   piratihtml5
+author Vaclav Malek
+email  vaclav.malek@pirati.cz
+date   2013-08-20
+name   plugin for html5 valid syntax + pirate specials
+desc   HTML5 valid plugin of Czech Pirate party
+url    https://www.pirati.cz
